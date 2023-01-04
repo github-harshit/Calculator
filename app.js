@@ -130,3 +130,6 @@ var buttons= document.querySelectorAll(".box");
    function checkingTerminak(){
     console.log("checking from terminal ")
    }
+    function checkingPassword(){
+        console.log("checking password "); 
+    }
