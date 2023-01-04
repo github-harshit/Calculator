@@ -124,3 +124,6 @@ var buttons= document.querySelectorAll(".box");
      }
     });
  }
+  function checkGit(){
+    console.log("just checking git"); 
+  }
